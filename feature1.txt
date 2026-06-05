@@ -1,1 +1,2 @@
 this is the feature that to be added to project in the feature1 branch
+This is the updated feature1 through the branch feature 3
